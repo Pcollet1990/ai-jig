@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor/IDE specific files
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Application-specific data that shouldn't be version-controlled
+# This is where your user's "book" data will live
+data/
